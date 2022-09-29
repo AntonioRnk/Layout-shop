@@ -1,4 +1,4 @@
-# Layout shop
+# Layout Flower shop
 Landing Page for Flower shop
 
 ## Live Demo
@@ -8,7 +8,8 @@ This site was built using [GitHub Pages](https://antoniornk.github.io/Layout-sho
 ## Main technology used
 
 - HTML;
-- CSS; 
+- CSS;
+- SCSS;
 - Gulp; 
 - Swiper-slider; 
 - Javascript; 
@@ -21,9 +22,9 @@ This site was built using [GitHub Pages](https://antoniornk.github.io/Layout-sho
 
 ## Screenshots, Preview (tablet)
 
-![Tablet-page]()
+![Tablet-page](https://s1.hostingkartinok.com/uploads/images/2022/09/7c19c59522622b2106853088afe92e24.png)
 
 ## Screenshots, Preview (mobile)
 
-![Mobile-page1]()
-![Mobile-page2]()
+![Mobile-page1](https://s1.hostingkartinok.com/uploads/images/2022/09/13db0de2fe67aa54caf11c60069a2265.png)
+![Mobile-page2](https://s1.hostingkartinok.com/uploads/images/2022/09/2bc69b4e4017251f276a0de12935f787.png)
