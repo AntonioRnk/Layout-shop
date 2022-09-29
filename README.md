@@ -26,5 +26,5 @@ This site was built using [GitHub Pages](https://antoniornk.github.io/Layout-sho
 
 ## Screenshots, Preview (mobile)
 
-![Mobile-page1](https://s1.hostingkartinok.com/uploads/images/2022/09/13db0de2fe67aa54caf11c60069a2265.png)
-![Mobile-page2](https://s1.hostingkartinok.com/uploads/images/2022/09/2bc69b4e4017251f276a0de12935f787.png)
+![Mobile-page1](https://s1.hostingkartinok.com/uploads/images/2022/09/57e98ccd811a05caf519b742646735d9.png)
+![Mobile-page2](https://s1.hostingkartinok.com/uploads/images/2022/09/49e42812e2ba011d4726868437fe60ef.png)
